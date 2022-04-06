@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Klijenti>
+  <klijent ime="Petar" prezime="Podnar" datRod="18.04.1999" spol="M" OIB="369852741" idKlijenta ="01" ></klijent>
+  <klijent ime="Luka" prezime="Bosnjak" datRod="08.12.1997" spol="M" OIB="369852741" idKlijenta ="02" ></klijent>
+  <klijent ime="Hrvoje" prezime="Kampic" datRod="01.02.1982" spol="M" OIB="369852741" idKlijenta ="03"></klijent>
+  <klijent ime="Ivan" prezime="Kadric" datRod="26.10.1959" spol="M" OIB="369852741" idKlijenta ="04" ></klijent>
+</Klijenti>

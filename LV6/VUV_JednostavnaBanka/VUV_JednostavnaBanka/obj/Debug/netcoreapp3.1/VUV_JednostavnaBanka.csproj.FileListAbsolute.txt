@@ -1,0 +1,51 @@
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csprojAssemblyReference.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfoInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfo.cs
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csproj.CoreCompileInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.exe
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Bankari.xml
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Klijenti.xml
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Racuni.xml
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Transakcije.xml
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.deps.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.dev.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.genruntimeconfig.cache
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csprojAssemblyReference.cache
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfoInputs.cache
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfo.cs
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csproj.CoreCompileInputs.cache
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.exe
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Bankari.xml
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Klijenti.xml
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Racuni.xml
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Transakcije.xml
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.deps.json
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.json
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.dev.json
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\astudent\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.genruntimeconfig.cache
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.exe
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Bankari.xml
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Klijenti.xml
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Racuni.xml
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\Transakcije.xml
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.deps.json
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.json
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.runtimeconfig.dev.json
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\bin\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csprojAssemblyReference.cache
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfoInputs.cache
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.AssemblyInfo.cs
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.csproj.CoreCompileInputs.cache
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.dll
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.pdb
+C:\Users\VK\Desktop\VUV_JednostavnaBanka\VUV_JednostavnaBanka\obj\Debug\netcoreapp3.1\VUV_JednostavnaBanka.genruntimeconfig.cache

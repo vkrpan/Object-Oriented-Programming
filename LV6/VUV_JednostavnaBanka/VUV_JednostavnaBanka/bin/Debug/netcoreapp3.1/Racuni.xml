@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Racuni>
+  <racun idKlijenta ="01" idBankara="556" brRacuna="4369911628747" vrstaRacuna="Privatni" datum="12.04.2019" vrijeme="10:43" poslovnica="Virovitica"></racun>
+  <racun idKlijenta ="02" idBankara="444" brRacuna="4369911623290" vrstaRacuna="Privatni" datum="10.10.2020" vrijeme="14:00" poslovnica="Virovitica"></racun>
+  <racun idKlijenta ="03" idBankara="556" brRacuna="4369900008745" vrstaRacuna="Poslovni" datum="05.05.2021" vrijeme="12:37" poslovnica="Virovitica"></racun>
+  <racun idKlijenta ="04" idBankara="556" brRacuna="4369900074410" vrstaRacuna="Poslovni" datum="05.05.2021" vrijeme="12:37" poslovnica="Virovitica"></racun>
+  <racun idKlijenta ="01" idBankara="444" brRacuna="4369900003698" vrstaRacuna="Poslovni" datum="05.05.2021" vrijeme="12:37" poslovnica="Virovitica"></racun>
+  <racun idKlijenta ="01" idBankara="444" brRacuna="4369900009812" vrstaRacuna="Poslovni" datum="05.05.2021" vrijeme="12:37" poslovnica="Virovitica"></racun>
+</Racuni>

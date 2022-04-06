@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Transakcije>
+  <transakcija idT="001" iznos="-250.27" poslovnica="PBZ1" vrijeme="14:21" datum="21.03.2021" brRacuna="4369911628747"/>
+  <transakcija idT="002" iznos="-3259.24" poslovnica="PBZ2" vrijeme="10:58" datum="25.07.2020" brRacuna="4369911628747"/>
+  <transakcija idT="003" iznos="-2471.35" poslovnica="PBZ3" vrijeme="09:04" datum="15.11.2020" brRacuna="4369911628747"/>
+  <transakcija idT="004" iznos="152.47" poslovnica="PBZ3" vrijeme="08:34" datum="24.06.2020" brRacuna="4369911623290"/>
+  <transakcija idT="005" iznos="153486.15" poslovnica="PBZ2" vrijeme="07:12" datum="13.07.2020" brRacuna="4369911623290"/>
+  <transakcija idT="006" iznos="-2546.79" poslovnica="PBZ4" vrijeme="12:00" datum="05.01.2021" brRacuna="4369900008745"/>
+  <transakcija idT="007" iznos="1837.45" poslovnica="PBZ1" vrijeme="13:17" datum="25.01.2021" brRacuna="4369900074410"/>
+  <transakcija idT="008" iznos="2254.37" poslovnica="PBZ1" vrijeme="14:30" datum="12.02.2021" brRacuna="4369911623290"/>
+  <transakcija idT="009" iznos="784.56" poslovnica="PBZ4" vrijeme="15:36" datum="15.02.2021" brRacuna="4369900003698"/>
+  <transakcija idT="010" iznos="9451.15" poslovnica="PBZ2" vrijeme="17:05" datum="14.03.2021" brRacuna="4369900009812"/>
+</Transakcije>

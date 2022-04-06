@@ -1,0 +1,14 @@
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.exe
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.deps.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.runtimeconfig.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.runtimeconfig.dev.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\LV6.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.csprojAssemblyReference.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.AssemblyInfoInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.AssemblyInfo.cs
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.csproj.CoreCompileInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.genruntimeconfig.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV6\LV6\LV6\bin\Debug\netcoreapp3.1\TextFile1.txt

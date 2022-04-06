@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bankari>
+  <bankar ime="Matija" prezime="Ljubic" datRod="25.02.1982." spol="M" idBankara="444"></bankar>
+  <bankar ime="Ivana" prezime="Hasija" datRod="14.07.1991." spol="Z" idBankara="556"></bankar>
+</Bankari>
