@@ -1,0 +1,4 @@
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV3\Dodatni zad\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV3\Dodatni zad\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV3\Dodatni zad\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\VK\Desktop\faks\2. semestar\OOP\LV3\Dodatni zad\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
